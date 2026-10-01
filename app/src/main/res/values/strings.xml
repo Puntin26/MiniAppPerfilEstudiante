@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Perfil de estudiante</string>
+    <string name="form_title">Perfil de estudiante</string>
+    <string name="profile_image">Imagen de perfil</string>
+    <string name="name_hint">Nombre</string>
+    <string name="student_id_hint">Matrícula</string>
+    <string name="career_label">Carrera</string>
+    <string name="save">Guardar</string>
+    <string name="edit">Editar</string>
+    <string name="required_name">El nombre es obligatorio</string>
+    <string name="required_student_id">La matrícula es obligatoria</string>
+    <string name="required_career">Selecciona una carrera</string>
+    <string name="profile_saved">Perfil guardado correctamente</string>
+    <string name="greeting_format">¡Hola, %1$s!</string>
+    <string name="profile_summary">Aquí está tu información:</string>
+    <string name="name_format">Nombre: %1$s</string>
+    <string name="student_id_format">Matrícula: %1$s</string>
+    <string name="career_format">Carrera: %1$s</string>
+
+    <string-array name="careers">
+        <item>Selecciona tu carrera</item>
+        <item>Ingeniería en Ciencias de la Computación</item>
+        <item>Ingeniería de Software</item>
+        <item>Ingeniería en Sistemas y Computación</item>
+        <item>Otra</item>
+    </string-array>
+</resources>
